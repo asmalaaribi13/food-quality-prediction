@@ -154,7 +154,7 @@ This project was inspired by the need to improve food quality management using d
 
 If you have any questions or feedback about the project, feel free to reach out via:
 
-- **Email**: asma.laaribi@example.com
+- **Email**: asma.laaribi@outlook.com
 - **GitHub**: [asmalaaribi13](https://github.com/asmalaaribi13)
 
 ---
